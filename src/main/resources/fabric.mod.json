@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "fabrictest",
-  "version": "${version}",
+  "version": "1.17.1-0.0.2",
 
   "name": "Fabric Test Mod for 1.17.1",
   "description": "Official Test Mod for 1.17.1",
@@ -14,7 +14,7 @@
   },
 
   "license": "MIT",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/fabrictest/icon.png",
 
   "environment": "*",
   "entrypoints": {
